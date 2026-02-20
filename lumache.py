@@ -1,7 +1,7 @@
 """
 Lumache - Python library for cooks and food lovers.
 """
-
+Lumache hosts its documentation on Read the Docs.
 __version__ = "0.1.0"
 
 
